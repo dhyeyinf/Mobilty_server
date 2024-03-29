@@ -1,0 +1,14 @@
+1. Name: Irwindeep Singh
+   UID: B22AI022
+2. Name: Shreyash Roy
+   UID: B22CH033
+3. Name: Dhyey Findoriya
+   UID: B22EE024
+4. Name: Ramninder Singh
+   UID: B22AI032
+5. Name: Abhishek Meena
+   UID: B22CH002
+6. Name: Peeyush Jangid
+   UID: B22MT030
+7. Name: Shreyash Mota
+   UID: 	B22CH033
